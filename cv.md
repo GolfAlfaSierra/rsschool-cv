@@ -18,8 +18,8 @@ Where **[1...4...7...10]** is
 * *"i had designed that language"*
 
 respectively
-<br>
-<br>
+
+
 
 Language/Tool | Lvl
 ------------ | -------------
@@ -37,10 +37,12 @@ Python | 4/10
 Network | 6/10
 Css | 6/10
 HTML | 6/10
-<br>
+
+
 ### Code
 [Golang png<->jpeg transformer](https://github.com/GolfAlfaSierra/img-zipper)
-<br>
+
+
 
 ## English
 * Reading -> use it daily, sometimes need a dictionary to check word meaning
