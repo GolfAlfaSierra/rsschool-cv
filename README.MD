@@ -1,1 +1,0 @@
-https://golfalfasierra.github.io/rsschool-cv/cv
